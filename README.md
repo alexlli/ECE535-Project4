@@ -1,4 +1,4 @@
-# ECE535 Project4: Federated Learning on Multimodal Sensor Data
+# ECE535 Project 4: Federated Learning on Multimodal Sensor Data
 
 # Motivation
 - Learn about Federated Learning (FL) and its application in multimodal IoT data. 
