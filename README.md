@@ -11,7 +11,7 @@ Federated Learning on Multimodal Sensor Data
 - Implement Federated Learning models
 - Validate the results in the paper [1]
 
-#Deliverables
+# Deliverables
 Deliverables in Github include:
 - Source code of model in Python
 - Setup instructions
