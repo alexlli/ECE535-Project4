@@ -1,0 +1,20 @@
+50.0
+0.705877280754572
+{'accuracy': 1.0, 'support': 94316, 'weighted_f1': 1.0, 'macro_f1': 1.0}
+{'accuracy': 0.0, 'support': 944, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 720, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 319, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 708, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 989, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 517, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 1903, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 1275, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 1083, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 790, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 482, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 677, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 1141, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 468, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 2739, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 8193, 'weighted_f1': 0.0, 'macro_f1': 0.0}
+{'accuracy': 0.0, 'support': 1192, 'weighted_f1': 0.0, 'macro_f1': 0.0}
